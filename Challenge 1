@@ -1,0 +1,7 @@
+Challenge 1: List all files (including hidden ones) in your home directory and sort them by modification time.
+ls -lat ~
+Here are the details of the code: 
+ls: List files.
+-l: Use long listing format.
+-a: Show hidden files (files starting with .).
+-t: Sort by modification time
