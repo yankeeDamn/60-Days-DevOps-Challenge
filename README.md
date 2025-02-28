@@ -1,4 +1,4 @@
-# 60-Days-DevOps-Challenge
+<span style="color: red;"> 60-Days-DevOps-Challenge</span>
 ## Day1 Table of content: 
 ### Challenge 1: List all files (including hidden ones) in your home directory and sort them by modification time.
 ### Challenge 2: Create a directory named devops_challenge_Day1, navigate into it, and create an empty file named day1.txt.
