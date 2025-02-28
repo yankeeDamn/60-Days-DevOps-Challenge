@@ -1,5 +1,5 @@
 # 60-Days-DevOps-Challenge
-## Table of content: 
+## Day1 Table of content: 
 ### Challenge 1: List all files (including hidden ones) in your home directory and sort them by modification time.
 ### Challenge 2: Create a directory named devops_challenge_Day1, navigate into it, and create an empty file named day1.txt.
 ### Challenge 3: Find the total disk usage of the /var/log directory in human-readable format.
