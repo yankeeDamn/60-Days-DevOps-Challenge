@@ -5,3 +5,4 @@ ls: List files.
 -l: Use long listing format.
 -a: Show hidden files (files starting with .).
 -t: Sort by modification time
+Write a one-liner command to find the most frequently used command in your shell history.
